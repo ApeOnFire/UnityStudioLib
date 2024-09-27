@@ -1,0 +1,19 @@
+{
+  "name": "uk.apeonfire.af-studio.common",
+  "version": "0.0.1",
+  "displayName": "AF Studio Library",
+  "description": "Ape On Fire shared code library",
+  "unity": "2021.1",
+  "dependencies": {
+    "com.unity-atoms.unity-atoms-base-atoms": "4.5.0",
+    "com.unity-atoms.unity-atoms-core": "4.5.0"
+ },
+ "keywords": [
+    "af"
+  ],
+  "author": {
+    "name": "Duncan Abbott",
+    "email": "duncan@foodforbenjamin.com",
+    "url": "https://www.apeonfire.uk"
+  }
+}

@@ -5,8 +5,8 @@
   "description": "Ape On Fire shared code library",
   "unity": "2021.1",
   "dependencies": {
-    "com.unity-atoms.unity-atoms-base-atoms": "4.5.0",
-    "com.unity-atoms.unity-atoms-core": "4.5.0"
+    "com.unity-atoms.unity-atoms-base-atoms": "https://github.com/unity-atoms/unity-atoms.git?path/Packages/BaseAtoms",
+    "com.unity-atoms.unity-atoms-core": "https://github.com/unity-atoms/unity-atoms.git?path/Packages/Core"
  },
  "keywords": [
     "af"

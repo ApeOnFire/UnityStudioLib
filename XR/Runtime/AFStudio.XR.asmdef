@@ -1,0 +1,23 @@
+{
+    "name": "AFStudio.XR",
+    "rootNamespace": "",
+    "references": [
+        "AFStudio.Common",
+        "UnityAtoms.UnityAtomsCore.Runtime",
+        "UnityAtoms.UnityAtomsBaseAtoms.Runtime",
+        "Oculus.Platform",
+        "Unity.XR.Management"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

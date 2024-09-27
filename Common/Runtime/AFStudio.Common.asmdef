@@ -1,0 +1,19 @@
+{
+    "name": "AFStudio.Common",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "UnityAtoms.UnityAtomsCore.Runtime",
+        "UnityAtoms.UnityAtomsBaseAtoms.Runtime",
+        "UnityAtoms.UnityAtomsMonoHooks.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

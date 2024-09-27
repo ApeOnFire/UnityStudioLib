@@ -1,0 +1,20 @@
+{
+    "name": "AFStudio.Common.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:efa81e100a955d24181ed05ff6b73ca7",
+        "GUID:29492541a59d04a81b47a7f225e8a22d",
+        "GUID:14165214884ae4a619bfb290f28194a7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
